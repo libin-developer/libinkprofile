@@ -36,7 +36,7 @@ export const CERTIFICATIONS = [
 ];
 
 export const CONTACT = {
-  phone: "+91 9188535460",
+  phone: "+91 6238564242",
   email: "libink003@gmail.com",
   linkedin: "https://www.linkedin.com/in/libin-k",
   github: "https://github.com/libin-developer",
